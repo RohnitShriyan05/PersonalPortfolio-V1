@@ -1,0 +1,39 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=EB+Garamond&family=Quicksand:wght@300&display=swap');
+@import url('http://fonts.cdnfonts.com/css/gill-sans');
+*{
+  max-width: 100%;
+  z-index: 10;
+}
+.light-theme{
+  background-color: #FFFFFF;
+  color: #1a1a1a;
+}
+.dark-theme{
+  color: #FFFFFF;
+  background-color: #080808;
+}
+
+h1{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 18vmin;
+}
+h2{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 7vmin;
+}
+h3{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 5vmin;
+}
+h4{
+  font-size: 6vmin;
+  font-family: 'Gill Sans', sans-serif;
+}
+.toggleset{
+  font-size: 5vmin;
+  right: 10vmin;
+  bottom: 10vmin;
+}

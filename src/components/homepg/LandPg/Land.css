@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=EB+Garamond&family=Quicksand:wght@300&display=swap');
+@import url('http://fonts.cdnfonts.com/css/gill-sans');
+*{
+    line-height: 95%;
+}
+.landwrapper{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+span:hover ,span{
+    transition: 1.5s ease;
+}
+.calltoaction{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 6vmin;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding-top: 5vmin;
+    transition: 0.5s ease;
+}
+.calltoaction{
+    writing-mode: vertical-rl;
+    text-orientation: sideways;
+}
+.calltoaction:hover{
+    text-shadow: 5px 5px 3px #ACACAC;
+    transition: 0.25s ease-in-out;
+}
+.calltoactionmobile{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4vmin;
+    bottom: 12vmin;
+    padding-left: 1vw;
+}
+.title, .name{
+    text-shadow: 0.5vmin 0.5vmin 3px #adadad;
+}
+ 

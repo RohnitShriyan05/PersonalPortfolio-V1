@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Libre+Baskerville&family=Noto+Serif+Display:wght@300&family=Quicksand:wght@300&display=swap');
+@import url('http://fonts.cdnfonts.com/css/gill-sans');
+.navwrapper{
+  z-index: 50;
+}
+.light-theme{
+  background-color: #FFFFFF;
+  color: #1a1a1a;
+}
+.dark-theme{
+  color: #FFFFFF;
+  background-color: #080808;
+}
+li{
+  font-family: 'Gill Sans', sans-serif;
+    font-size: 4vmin;
+    text-transform: uppercase;
+}

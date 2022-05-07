@@ -1,0 +1,11 @@
+@import url('http://fonts.cdnfonts.com/css/gill-sans');
+.AboutText{
+    padding-left: 15%;
+    padding-right:15%;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    z-index: auto;
+}
+.AboutMe{
+    font-size: 8vmin;
+}

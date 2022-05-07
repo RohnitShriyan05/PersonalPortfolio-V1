@@ -1,0 +1,14 @@
+.workwrapper{
+    z-index: 30;
+}
+.project{
+    height: 25vh;
+}
+.proj1{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(0, 0, 0, 0.5)), url("https://codegena.com/wp-content/uploads/2019/11/webdesign-inspiration.png");
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
